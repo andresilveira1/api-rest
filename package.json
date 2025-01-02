@@ -1,5 +1,5 @@
 {
-  "name": "api-rest",
+  "name": "personal-finance-control-api",
   "version": "1.0.0",
   "main": "index.js",
   "engines": {
@@ -13,7 +13,6 @@
     "test": "vitest"
   },
   "license": "MIT",
-  "description": "",
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@types/node": "^22.10.2",
